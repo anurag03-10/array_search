@@ -14,7 +14,7 @@ void main()
  {
  if(b[a]==g)
   {
-  
+  printf("\n Yes!! The no. %d is present in the array at location %d",g,a+1);
   c++; 
  }
  }
